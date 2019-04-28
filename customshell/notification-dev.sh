@@ -1,0 +1,1 @@
+node dynamoDBtoCSV.js -t notifications-dev -f notifications-dev.csv
